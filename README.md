@@ -10,7 +10,7 @@ Versitron develops industrial fiber optic video transmission solutions engineere
 
 ## Advanced Analog Video Fiber Transmission System
 
-An [analog video fiber transmission system](https://www.versitron.com/collections/versivision-analog-video) transports analog camera signals across fiber optic infrastructure while maintaining excellent video quality over significantly greater distances than conventional copper cabling. Fiber transmission reduces signal loss and improves communication reliability throughout distributed surveillance networks.
+An [analog video fiber transmission system](https://www.versitron.com/products/fdvtr1aa5a-ae-fdvtr1aa3aaefdvr1aa5aae-1channel-digital-fiber-optic-video-converter-2) transports analog camera signals across fiber optic infrastructure while maintaining excellent video quality over significantly greater distances than conventional copper cabling. Fiber transmission reduces signal loss and improves communication reliability throughout distributed surveillance networks.
 
 Manufacturing facilities, utility substations, transportation systems, correctional facilities, military bases, airports, and industrial campuses commonly deploy fiber transmission systems to connect analog cameras with centralized monitoring locations.
 
